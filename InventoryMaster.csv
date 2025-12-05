@@ -1,0 +1,101 @@
+ItemID,ItemName,Category,UnitCost,ReorderLevel,RiskLevel
+ITM0001,Electronics Item 1,Electronics,534.21,35,High
+ITM0002,Office Supplies Item 2,Office Supplies,470.69,18,High
+ITM0003,Electronics Item 3,Electronics,937.03,23,Medium
+ITM0004,Office Supplies Item 4,Office Supplies,413.85,28,Low
+ITM0005,Furniture Item 5,Furniture,939.87,41,Low
+ITM0006,Electronics Item 6,Electronics,509.25,39,Medium
+ITM0007,Office Supplies Item 7,Office Supplies,129.93,22,High
+ITM0008,Clothing Item 8,Clothing,496.44,29,Low
+ITM0009,Electronics Item 9,Electronics,570.74,27,Low
+ITM0010,Clothing Item 10,Clothing,840.11,15,Medium
+ITM0011,Electronics Item 11,Electronics,572.26,18,High
+ITM0012,Electronics Item 12,Electronics,691.76,17,Medium
+ITM0013,Hardware Item 13,Hardware,989.41,48,High
+ITM0014,Clothing Item 14,Clothing,311.92,35,Low
+ITM0015,Clothing Item 15,Clothing,439.41,44,Medium
+ITM0016,Hardware Item 16,Hardware,593.51,40,Low
+ITM0017,Electronics Item 17,Electronics,674.70,46,Low
+ITM0018,Clothing Item 18,Clothing,909.04,31,Medium
+ITM0019,Hardware Item 19,Hardware,616.75,24,Medium
+ITM0020,Office Supplies Item 20,Office Supplies,315.88,50,Low
+ITM0021,Electronics Item 21,Electronics,164.51,23,Low
+ITM0022,Hardware Item 22,Hardware,709.54,51,Medium
+ITM0023,Hardware Item 23,Hardware,336.73,20,Low
+ITM0024,Electronics Item 24,Electronics,754.57,12,Low
+ITM0025,Clothing Item 25,Clothing,536.14,15,High
+ITM0026,Furniture Item 26,Furniture,592.24,55,High
+ITM0027,Hardware Item 27,Hardware,816.19,31,Medium
+ITM0028,Furniture Item 28,Furniture,959.98,49,High
+ITM0029,Office Supplies Item 29,Office Supplies,349.84,30,Medium
+ITM0030,Furniture Item 30,Furniture,894.09,31,Low
+ITM0031,Furniture Item 31,Furniture,505.61,59,High
+ITM0032,Office Supplies Item 32,Office Supplies,905.94,43,High
+ITM0033,Hardware Item 33,Hardware,474.13,32,Low
+ITM0034,Office Supplies Item 34,Office Supplies,986.90,16,Medium
+ITM0035,Office Supplies Item 35,Office Supplies,537.49,56,Medium
+ITM0036,Clothing Item 36,Clothing,296.32,40,Medium
+ITM0037,Clothing Item 37,Clothing,141.80,50,Low
+ITM0038,Electronics Item 38,Electronics,697.83,29,Medium
+ITM0039,Hardware Item 39,Hardware,816.05,53,Low
+ITM0040,Office Supplies Item 40,Office Supplies,457.16,22,High
+ITM0041,Furniture Item 41,Furniture,628.57,28,Medium
+ITM0042,Office Supplies Item 42,Office Supplies,577.90,27,High
+ITM0043,Clothing Item 43,Clothing,126.76,48,Low
+ITM0044,Furniture Item 44,Furniture,133.52,57,Medium
+ITM0045,Hardware Item 45,Hardware,913.72,49,High
+ITM0046,Clothing Item 46,Clothing,550.48,36,High
+ITM0047,Hardware Item 47,Hardware,515.99,23,High
+ITM0048,Electronics Item 48,Electronics,302.30,54,High
+ITM0049,Hardware Item 49,Hardware,124.04,44,Low
+ITM0050,Hardware Item 50,Hardware,146.61,44,Low
+ITM0051,Electronics Item 51,Electronics,338.11,32,Medium
+ITM0052,Electronics Item 52,Electronics,772.98,42,Medium
+ITM0053,Clothing Item 53,Clothing,287.04,17,Medium
+ITM0054,Clothing Item 54,Clothing,461.49,20,High
+ITM0055,Electronics Item 55,Electronics,241.61,43,Medium
+ITM0056,Electronics Item 56,Electronics,384.78,57,Medium
+ITM0057,Electronics Item 57,Electronics,487.38,43,Low
+ITM0058,Furniture Item 58,Furniture,290.34,26,High
+ITM0059,Furniture Item 59,Furniture,669.51,20,Medium
+ITM0060,Electronics Item 60,Electronics,892.58,32,Medium
+ITM0061,Electronics Item 61,Electronics,792.98,37,Medium
+ITM0062,Clothing Item 62,Clothing,187.79,45,High
+ITM0063,Electronics Item 63,Electronics,708.09,35,High
+ITM0064,Hardware Item 64,Hardware,392.58,29,Low
+ITM0065,Office Supplies Item 65,Office Supplies,839.77,18,High
+ITM0066,Office Supplies Item 66,Office Supplies,988.19,38,High
+ITM0067,Electronics Item 67,Electronics,385.35,45,High
+ITM0068,Clothing Item 68,Clothing,270.58,51,Medium
+ITM0069,Hardware Item 69,Hardware,854.09,20,High
+ITM0070,Office Supplies Item 70,Office Supplies,808.60,36,Medium
+ITM0071,Office Supplies Item 71,Office Supplies,486.06,34,Low
+ITM0072,Electronics Item 72,Electronics,875.32,39,High
+ITM0073,Hardware Item 73,Hardware,675.41,30,Medium
+ITM0074,Hardware Item 74,Hardware,689.86,20,Medium
+ITM0075,Furniture Item 75,Furniture,843.96,17,Low
+ITM0076,Office Supplies Item 76,Office Supplies,967.61,52,Medium
+ITM0077,Electronics Item 77,Electronics,938.24,57,High
+ITM0078,Furniture Item 78,Furniture,441.19,56,Low
+ITM0079,Office Supplies Item 79,Office Supplies,838.98,15,Medium
+ITM0080,Furniture Item 80,Furniture,692.81,40,Medium
+ITM0081,Hardware Item 81,Hardware,758.59,18,Medium
+ITM0082,Clothing Item 82,Clothing,362.42,35,Low
+ITM0083,Furniture Item 83,Furniture,352.40,21,Low
+ITM0084,Office Supplies Item 84,Office Supplies,378.81,50,Low
+ITM0085,Furniture Item 85,Furniture,130.12,58,High
+ITM0086,Hardware Item 86,Hardware,524.79,32,High
+ITM0087,Electronics Item 87,Electronics,730.79,27,Low
+ITM0088,Furniture Item 88,Furniture,582.38,22,Medium
+ITM0089,Electronics Item 89,Electronics,833.37,49,Medium
+ITM0090,Office Supplies Item 90,Office Supplies,230.72,16,Low
+ITM0091,Electronics Item 91,Electronics,104.79,39,Low
+ITM0092,Furniture Item 92,Furniture,295.14,43,Low
+ITM0093,Clothing Item 93,Clothing,369.92,55,High
+ITM0094,Office Supplies Item 94,Office Supplies,937.74,17,Low
+ITM0095,Hardware Item 95,Hardware,334.64,56,Low
+ITM0096,Furniture Item 96,Furniture,458.98,39,Low
+ITM0097,Office Supplies Item 97,Office Supplies,401.25,52,High
+ITM0098,Furniture Item 98,Furniture,547.58,42,High
+ITM0099,Clothing Item 99,Clothing,416.92,55,High
+ITM0100,Electronics Item 100,Electronics,658.84,53,High
